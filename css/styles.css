@@ -33,11 +33,11 @@ h2 {
 }
 
 .list1 {
-  width: 30%;
+  /* width: 30%; */
   margin: auto;
   font-size: 20px;
   color: whitesmoke;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
 p {
